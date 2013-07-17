@@ -20,5 +20,16 @@
   padding:10px 10px;
 }
 h1 {
+  font-family: 'Cuprum', sans-serif;
+  font-weight:400;
+  font-size:60px;
   color: #02cec3;
+  text-transform: uppercase;
+}
+h2 {
+  font-family: 'Cuprum', sans-serif;
+  font-weight:400;
+  font-size:30px;
+  color: #555;
+  text-transform: uppercase;
 }
